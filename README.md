@@ -1,13 +1,14 @@
 ### Hallo 👋, ich bin Manuel Enrique Reyes Rivero
 
-- Ingenieur mit Erfahrung in der Testautomatisierung, Testanalyse und Erstellung von Modulen zur Ansteuerung von Hardware
-- Erfahrung mit Clean Code Prinzipien, objekt-orientierter Programmierung und dem MVC Konzept
-- Sicherer Umgang mit C# und dem .Net Framework
-- Profundes Wissen über Python und Erfahrung in der Entwicklung mit Linux
-- Sehr gute Kenntnisse in JavaScript, Vue.Js, Node.js und Docker
-- Solides Know-How in PHP, C++, LabView und Selenium
-- Projekterfahrung mit Datenmodellierung und Nutzung von Datenbanksystemen (MySQL, MongoDB und PostgreSQL)
-- Besonders interessiert in Embedded-Softwareentwicklung, Software-Architekturen sowie aktuelle Trends in Webtechnologie und Software­design
+• Ingenieur mit Erfahrung in der Systemtestautomatisierung und Testanalyse
+• Sicherer Umgang mit C# (.Net) und Kotlin
+• Erfahrung mit Python und Linux
+• Sehr gute Kenntnisse in JavaScript, Vue.js, Node.js und Docker
+• Solides Know‑How in PHP, C++, LabView und Selenium
+• Projekterfahrung mit Datenmodellierung und Nutzung von Datenbanksystemen (MySQL, MongoDB und PostgreSQL)
+• Besonders interessiert in Softwareentwicklung, Software‑Architekturen, Clean Code Prinzipien, sowie aktuelle Trends in Webtechnologie und
+Softwaredesign
+
 ---
 
 🛠️ Toolbox
