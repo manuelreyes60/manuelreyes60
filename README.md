@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/koltin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
 
 
 
