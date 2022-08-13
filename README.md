@@ -12,24 +12,7 @@
 
 🛠️ Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/>
 
 
 
